@@ -1,0 +1,95 @@
+body {
+    color: #432;
+    text-align: center;
+    font-family: 'Staatliches', sans-serif;
+}
+
+.harrypotterimg { 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.finalPostion { 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+
+
+.title {
+    font-size: 45px;
+    background-color: #9A7B4F;
+    font-weight: 800;
+    padding: 0 20px;
+}
+
+.Part-two-yes {
+    font-size: 45px;
+    background-color: #9A7B4F;
+    font-weight: 800;
+    padding: 0 20px;
+}
+
+.No-part-two {
+    font-size: 45px;
+    background-color: #9A7B4F;
+    font-weight: 800;
+    padding: 0 20px;
+}
+
+.Part-three-yes {
+    font-size: 45px;
+    background-color: #9A7B4F;
+    font-weight: 800;
+    padding: 0 20px;
+}
+
+.Part-four-yes {
+    font-size: 45px;
+    background-color: #9A7B4F;
+    font-weight: 800;
+    padding: 0 20px;
+}
+
+.Part-five-yes {
+    font-size: 45px;
+    background-color: #9A7B4F;
+    font-weight: 800;
+    padding: 0 20px;
+}
+
+
+
+
+
+.button {
+    display: flex;
+    justify-content: center;
+    
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+
+.firstImage {
+    height: 350px;
+    padding: 13px;
+}
+
+
+.start-button {
+    height: 40px;
+}
+
+
+h1 {
+    font-size: 50px;
+}
+
